@@ -16,3 +16,6 @@ Dynamic Card Display
 Card Moderation
 • Users can delete a card.
 • When a card is clicked, its border will change to a golden color to highlight it as the "featured" card.
+
+Image Disclaimer
+The images used in the design elements of this website do not belong to me. They are sourced from external websites and are used solely for illustrative and demonstration purposes. All rights to these images remain with their respective owners. Please ensure that you have the necessary rights or permissions if you use similar images in your own projects.
