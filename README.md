@@ -1,4 +1,4 @@
-## Virtual Birthday Card Board 🍓
+## Virtual Birthday Card Board 🥳
 
 ### Objective
 
