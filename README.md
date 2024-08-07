@@ -39,7 +39,8 @@ cd virtual-birthday-card-board
 
 ##### Open the Project:
 
-- Simply open the index.html file in your browser or use a local server to view the project.
+- Open the index.html file in Visual Studio Code.
+- Use the "Open with Live Server" extension to view the project in your browser.
 
 ### Image Disclaimer
 
